@@ -40,5 +40,5 @@ The Notebook has 6 parts :
      _________________________________________________________________
      
      
-     
-You can find data on this "https://www.kaggle.com/c/ashrae-energy-prediction"
+ The loss was 2.2391    
+You can find data on this link  "https://www.kaggle.com/c/ashrae-energy-prediction"
