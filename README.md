@@ -39,6 +39,5 @@ The Notebook has 6 parts :
      Non-trainable params: 700
      _________________________________________________________________
      
-     
- The loss was 2.2391    
+       
 You can find data on this link  "https://www.kaggle.com/c/ashrae-energy-prediction"
